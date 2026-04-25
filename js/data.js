@@ -1,8 +1,8 @@
 // ── Frases do efeito de digitação ──────────────────────────────
 const TYPING_PHRASES = [
   'Desenvolvedor Full-Stack',
-  'Java · C# · PostgreSQL',
-  'PostgreSQL · JDBC · REST',
+  'Java · Python · C#',
+  'Django · Tailwind Css · Playwright',
   'Construindo sistemas do zero.',
   '> sempre aprendendo...',
 ];
