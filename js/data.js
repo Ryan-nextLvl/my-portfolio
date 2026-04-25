@@ -1,7 +1,7 @@
 // ── Frases do efeito de digitação ──────────────────────────────
 const TYPING_PHRASES = [
   'Desenvolvedor Full-Stack',
-  'Java · Python · Django',
+  'Java · C# · PostgreSQL',
   'PostgreSQL · JDBC · REST',
   'Construindo sistemas do zero.',
   '> sempre aprendendo...',
@@ -47,13 +47,13 @@ const PROJECTS = [
 const TIMELINE = [
   {
     ano: '2025 – atual',
-    titulo: 'Desenvolvedor Full-Stack',
+    titulo: 'Desenvolvedor',
     local: 'Projetos Pessoais',
     descricao: 'Desenvolvimento de sistemas web e desktop com Django, Java e Node.js. Integração com APIs externas, bancos PostgreSQL e automações RPA.',
   },
   {
     ano: '2024',
-    titulo: 'Estudante de ADS',
+    titulo: 'Estudante de Engenharia de Software',
     local: 'Centro Universitário Santo Agostinho – UNIFSA',
     descricao: 'Curso de Análise e Desenvolvimento de Sistemas. Disciplinas de Banco de Dados, POO, Estrutura de Dados e Engenharia de Software.',
   },
